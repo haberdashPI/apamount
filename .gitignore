@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.pdf
+.vscode
+oldcache
+__pycache__
+*.o
+*.pyc
+.tags
