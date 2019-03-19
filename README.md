@@ -2,12 +2,11 @@
 
 ## Introduction
 
-This project archives the results for the following, in-press publication (as
-of 2019).
+This project archives the results for the following paper.
 
 Wright, B., LeBlanc, E., Little, D. F., Conderman, J., Glavin, C.,
 Semi-supervised learning of a non-native phonetic contrast: How much feedback
-is enough? Attention, Perception, & Psychophysics.
+is enough? Submitted to Attention, Perception, & Psychophysics.
 
 ### Abstract
 
