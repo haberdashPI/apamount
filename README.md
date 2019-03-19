@@ -80,8 +80,8 @@ install.packages(c('ggplot2','Hmisc'))
 ## Usage
 
 All of the below scripts require facility with the python and R langauges,
-and good programming environment. To use the python packages you will need,
-first activate the conda environment as follows.
+and a good programming environment. To use the python packages you will need
+to first activate the conda environment as follows.
 
 ```sh
 cd [project directory]
@@ -93,7 +93,7 @@ source activate apamount
 > with `activate apamount` (no `source`).
 
 Each of the three figures from the manuscript have a corresponding figure
-(created in R) and anlaysis (run in python). The names of the figures are as
+(created in R) and analysis (run in python). The names of the figures are as
 as follows:
 
 * Figure 1 --- `apamount_amount_[DATE].pdf`
